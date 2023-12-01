@@ -1,0 +1,9 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "consumo".(¬Ş¸í8¸îĞì¼1
+Z
+java:S1854"=Remove this useless assignment to local variable "capacidad".(ÍŸê¹8çÆÓì¼1
+K
+java:S1481".Remove this unused "capacidad" local variable.(ÍŸê¹8ÂîĞì¼1
+I
+java:S1481",Remove this unused "consumo" local variable.(¬Ş¸í8çÆÓì¼1
